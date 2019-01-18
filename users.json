@@ -1,0 +1,28 @@
+{
+    "friends" : [
+    {
+        "name" : "Nayan Dey",
+        "id"   : 16103022,
+        "email": "16103022@iubat.edu",
+        "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.0-9/28577896_2042781249312457_7548646689739247716_n.jpg?_nc_cat=105&_nc_ht=scontent.fdac7-1.fna&oh=30e2c987a1b3b3683bc06df1edd98942&oe=5CFE4698"
+    },
+    {
+        "name" : "Aulad Hossen",
+        "id"   : 16103021,
+        "email": "16103021@iubat.edu",
+        "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.0-9/48427266_2754188378138626_131712671144738816_n.jpg?_nc_cat=104&_nc_ht=scontent.fdac7-1.fna&oh=a0450fdc4e371a4577fe0080a06e53a3&oe=5CC5D7C3"
+    },
+    {
+        "name" : "Imran Habib",
+        "id"   : 16103023,
+        "email": "16103023@iubat.edu",
+        "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.0-9/16729535_588369981358440_6856902691437855808_n.jpg?_nc_cat=103&_nc_ht=scontent.fdac7-1.fna&oh=1d1d2705c4f1eb655621798edc401933&oe=5CCB11AC"
+    },
+    {
+        "name" : "Hasibul Hakim",
+        "id"   : 16103006,
+        "email": "16103006@iubat.edu",
+        "image": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.0-9/36199733_2189594064607800_4563805684356874240_n.jpg?_nc_cat=103&_nc_ht=scontent.fdac7-1.fna&oh=e66b6afe05fd1ef2d74905047f84c4a3&oe=5D004D62"
+    }
+]
+}
